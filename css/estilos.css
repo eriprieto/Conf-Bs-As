@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.evento{
+    background-image: url("../imagenes_integrador_front/hawaii.jpg");
+    height:100vh;
+    background-size: cover;
+    background-position: bottom;
+    color: white;
+    align-content:left;
+    }
