@@ -16,6 +16,7 @@ a{
 }
 @media(max-width:600px){
     #contenedor{
+        background-size: cover;
         flex-direction: column !important;
     }
     #texto{
